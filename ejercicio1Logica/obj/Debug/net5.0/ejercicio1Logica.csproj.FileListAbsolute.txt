@@ -1,0 +1,16 @@
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\bin\Debug\net5.0\ejercicio1Logica.exe
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\bin\Debug\net5.0\ejercicio1Logica.deps.json
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\bin\Debug\net5.0\ejercicio1Logica.runtimeconfig.json
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\bin\Debug\net5.0\ejercicio1Logica.runtimeconfig.dev.json
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\bin\Debug\net5.0\ejercicio1Logica.dll
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\bin\Debug\net5.0\ref\ejercicio1Logica.dll
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\bin\Debug\net5.0\ejercicio1Logica.pdb
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\obj\Debug\net5.0\ejercicio1Logica.csproj.AssemblyReference.cache
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\obj\Debug\net5.0\ejercicio1Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\obj\Debug\net5.0\ejercicio1Logica.AssemblyInfoInputs.cache
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\obj\Debug\net5.0\ejercicio1Logica.AssemblyInfo.cs
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\obj\Debug\net5.0\ejercicio1Logica.csproj.CoreCompileInputs.cache
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\obj\Debug\net5.0\ejercicio1Logica.dll
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\obj\Debug\net5.0\ref\ejercicio1Logica.dll
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\obj\Debug\net5.0\ejercicio1Logica.pdb
+C:\Users\mca\source\repos\ejercicio1Logica\ejercicio1Logica\obj\Debug\net5.0\ejercicio1Logica.genruntimeconfig.cache
